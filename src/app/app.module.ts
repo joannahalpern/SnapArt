@@ -2,9 +2,9 @@ import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
 import { TabsPage } from '../pages/tabs/tabs';
 
-import { DatabaseProvider } from '../providers/database/database';
-import { ImageProvider } from '../providers/image/image';
-import { PreloaderProvider } from '../providers/preloader/preloader';
+// import { DatabaseProvider } from '../providers/database/database';
+// import { ImageProvider } from '../providers/image/image';
+// import { PreloaderProvider } from '../providers/preloader/preloader';
 
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
